@@ -1,10 +1,10 @@
 class Apollo < Formula
   desc "AI coding assistant that lives in your terminal - Illuminating your code"
   homepage "https://github.com/i-luv-pho/testerpho01"
-  url "https://github.com/i-luv-pho/testerpho01/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "37f3f6b959685ff24d17de937afc78f675a6ad8ab87aa9a8e3b230a5eb20d5dd"
+  url "https://github.com/i-luv-pho/testerpho01/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "55be991d7aa56fbd353518aa1f1edf91c6ea1688649e2c0c57da9ef4b089134a"
   license "MIT"
-  version "1.0.0"
+  version "1.0.1"
 
   depends_on "curl"
   depends_on "git"
